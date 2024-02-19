@@ -14,7 +14,5 @@ public class Tv {
     channel--;
   }
 
-  void setChannel() {
-    channel = channel;
-  }
+  void setChannel() {}
 }
